@@ -1,0 +1,17 @@
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pokemon-card {
+  width: 25%;
+  margin: 1%;
+  padding: 1%;
+  border: 1px solid #ccc;
+  text-align: center;
+}
